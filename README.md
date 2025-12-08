@@ -1,5 +1,5 @@
 # Harsh Chawla
-**`Student| ML model developer| Graphic Designer`**
+**`ML model developer | Graphic Designer`**
 
 A CS(AI) student learning the ins and outs og AI and ML<br>My interests lie in Research and game development<br>Currently learning: my EndSems<br>
 
